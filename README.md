@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SkyChatz
+- 
 SKYCHATZ NETWORK INC.
 We using SkyServ, a replication of JiServ.
 IRC : /server irc.skychatz.org 7000
+
 TELE : https://t.me/joinchat/SxO3UVT6UM8fjPBW
 - 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8CW4EC)
